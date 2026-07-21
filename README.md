@@ -45,7 +45,6 @@ Track every rupee (or dollar, or euro) with a clean, modern interface designed f
 ---
 
 ## 🎨 Design System
-
 - Purple primary brand color throughout
 - 8 color-coded categories: Food & Drinks, Transport, Shopping, Health, Entertainment, Education, Bills & Utilities, Others
 - Card-based UI with soft shadows & rounded corners
@@ -56,12 +55,13 @@ Track every rupee (or dollar, or euro) with a clean, modern interface designed f
 
 ## 📱 Screenshots
 
-<!-- Add screenshots here -->
-<!-- Example:
-| Home | Add Expense | Summary |
-|------|-------------|---------|
-| ![Home](screenshots/home.png) | ![Add](screenshots/add.png) | ![Summary](screenshots/summary.png) |
--->
+| Splash | Home | Add Expenses |
+|--------|------|--------------|
+| ![Splash](screenshots/Splash_Screen.jpg) | ![Home](screenshots/Home_Screen.jpg) | ![Add Expenses](screenshots/Add_Expenses.jpg) |
+
+| Summary 1 | Summary 2 | Settings |
+|-----------|-----------|----------|
+| ![Summary 1](screenshots/Summary_Screen_1.jpg) | ![Summary 2](screenshots/Summary_Screen_2.jpg) | ![Settings](screenshots/Settings_Screen.jpg) |
 
 ---
 
